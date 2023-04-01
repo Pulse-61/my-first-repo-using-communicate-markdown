@@ -5,3 +5,7 @@
 ##### Entering an H5 type Header
 ###### Entering an H6 type Header
 ![Image of Blacktocat](https://octodex.github.com/images/blacktocats.png)
+```
+Syntax used to display image
+![Image of Blacktocats](https://octodex.github.com/images/blacktocats.png)
+```
