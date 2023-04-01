@@ -11,4 +11,4 @@ Syntax used to display image
 ```
 - [x] Turn On GitHub Pages!
 - [x] Outline My Portfolio!
-- [x] Introduce Myself To The World!
+- [x] Introduce Myself To The World! 
