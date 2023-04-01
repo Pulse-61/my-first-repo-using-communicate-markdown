@@ -9,3 +9,6 @@
 Syntax used to display image
 ![Image of Blacktocats](https://octodex.github.com/images/blacktocats.png)
 ```
+- [x] Turn On GitHub Pages!
+- [x] Outline My Portfolio!
+- [] Introduce Myself To The World!
